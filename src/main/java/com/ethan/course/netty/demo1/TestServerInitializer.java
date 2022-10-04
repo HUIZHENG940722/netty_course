@@ -1,4 +1,4 @@
-package com.ethan.course.netty.demo;
+package com.ethan.course.netty.demo1;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
